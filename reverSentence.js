@@ -8,4 +8,3 @@ function reverse(string){
 });
 }
 
-console.log(reverse("We are at Ignite Solutions! Their email-id is careers@ignitesol.com"));
