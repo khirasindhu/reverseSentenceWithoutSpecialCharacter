@@ -1,0 +1,22 @@
+{
+  "name": "reversentence",
+  "version": "1.0.0",
+  "description": "Reverse a sentence without affecting the Special characters",
+  "main": "reverSentence.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khirasindhu/reverseSentenceWithoutSpecialCharacter.git"
+  },
+  "keywords": [
+    "reverse"
+  ],
+  "author": "Suraj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khirasindhu/reverseSentenceWithoutSpecialCharacter/issues"
+  },
+  "homepage": "https://github.com/khirasindhu/reverseSentenceWithoutSpecialCharacter#readme"
+}
